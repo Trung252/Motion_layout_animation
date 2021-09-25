@@ -30,7 +30,7 @@
         android:id="@+id/imageView17"
         android:layout_width="318dp"
         android:layout_height="333dp"
-        app:srcCompat="@drawable/we_were_both_young_when_i_first_saw_you_i_close_my_eyes_and_the_flashback_starts_i_m_standin__there_on_a_balcony_in_summer_air_see_the_lights__see_the_party__the_ball_gowns_see_you_make_your_way_through_the_crowd_a"
+        app:srcCompat="@drawable/lyric1"
         tools:layout_editor_absoluteX="42dp"
         tools:layout_editor_absoluteY="211dp"
         tools:visibility="visible" />
